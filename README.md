@@ -4,7 +4,7 @@ Link to walkthrough video: <https://drive.google.com/file/d/1GijVr0wUUK5PJhmX5qR
 
 ## Description
 
-This project simulates the backend of an ecommerce website to store information in a database. The database starts with a set amount of information, but by using CURD requests you can add, edit, or delete information in the database.
+This project simulates the backend of an ecommerce website to store information in a database. The database starts with a set amount of information, but by using CRUD requests you can add, edit, or delete information in the database.
 
 ## Table of Contents
 
